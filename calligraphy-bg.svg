@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      text { font-family: 'Amiri', serif; fill: rgba(255,255,255,0.04); }
+    </style>
+  </defs>
+  <rect width="600" height="600" fill="none"/>
+  <!-- Scattered Arabic calligraphy fragments -->
+  <text x="20" y="60" font-size="48" transform="rotate(-15 20 60)">بسم الله</text>
+  <text x="200" y="120" font-size="36" transform="rotate(10 200 120)">الحمد لله</text>
+  <text x="400" y="80" font-size="42" transform="rotate(-8 400 80)">سبحان الله</text>
+  <text x="80" y="200" font-size="32" transform="rotate(20 80 200)">لا إله إلا الله</text>
+  <text x="320" y="220" font-size="52" transform="rotate(-12 320 220)">الله أكبر</text>
+  <text x="500" y="190" font-size="28" transform="rotate(5 500 190)">ما شاء الله</text>
+  <text x="50" y="320" font-size="44" transform="rotate(-5 50 320)">استغفر الله</text>
+  <text x="250" y="350" font-size="38" transform="rotate(15 250 350)">سبحان الله وبحمده</text>
+  <text x="480" y="310" font-size="30" transform="rotate(-18 480 310)">الحمد لله</text>
+  <text x="30" y="440" font-size="46" transform="rotate(8 30 440)">الله أكبر</text>
+  <text x="220" y="480" font-size="34" transform="rotate(-10 220 480)">بسم الله الرحمن</text>
+  <text x="420" y="430" font-size="40" transform="rotate(12 420 430)">لا حول ولا قوة</text>
+  <text x="100" y="560" font-size="36" transform="rotate(-7 100 560)">توكلت على الله</text>
+  <text x="350" y="550" font-size="50" transform="rotate(6 350 550)">صلى الله عليه</text>
+  <text x="520" y="520" font-size="28" transform="rotate(-14 520 520)">وسلم</text>
+  <text x="150" y="150" font-size="60" transform="rotate(3 150 150)" style="fill: rgba(255,255,255,0.025)">ﷺ</text>
+  <text x="450" y="400" font-size="55" transform="rotate(-6 450 400)" style="fill: rgba(255,255,255,0.025)">ﷻ</text>
+</svg>
