@@ -2,7 +2,7 @@
   "name": "السُّنَّة",
   "short_name": "السنة",
   "description": "أحيِ سننًا تُحيي أمة — تطبيق تفاعلي لتعليم السنن النبوية",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0D0D0D",
   "theme_color": "#0D0D0D",
@@ -11,7 +11,7 @@
   "lang": "ar",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
